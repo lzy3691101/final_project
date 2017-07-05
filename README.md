@@ -10,4 +10,4 @@ Deliverables
 Suggested schedule
 Rubric
 
-Instructions on how to run presentations
+Instructions on how to run presentations - see content here from DSI 1.0
