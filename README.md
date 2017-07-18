@@ -9,7 +9,7 @@ Each project deliverable includes objectives, requirements, starter-code, rubric
 
 ### **Final Project, pt. 1**
 
-In the field of data science, projects are practical. A good project is manageable and relates to your working domain; however, it can be hard to filter and scope good ideas when you're new to a field. One of the best ways to test expectations and get feedback is to share your ideas with others. For part one of your final project, you'll come up with a few different ideas you could potentially solve with data, then present them in small groups to the class.
+In the field of data science, projects are practical. A good project is manageable and relates to your working domain; however, it can be hard to filter and scope good ideas when you're new to a field. One of the best ways to test expectations and get feedback is to share your ideas with others. In advance of presenting this project, pay close attention to the Project [Deliverables](./Deliverables.md) to assure your work will be able to cover the key asks. For part one of your final project, you'll come up with a few different ideas you could potentially solve with a dataset or two, then present them in small groups to the class.
 
 - **Goal**: Prepare a one-minute lightning talk that covers 3 potential project topics.
 <!-- - **[Detailed Spec File](./01-lightning-talk/readme.md)** -->
@@ -17,7 +17,7 @@ In the field of data science, projects are practical. A good project is manageab
 
 ### **Final Project, pt. 2**
 
-Project outlines are a valuable resource when working through data projects. For this project, you will need to complete a problem statement and research design outline for the topic you chose from pt. 1. This will serve as the starting point for your modeling approach. Make sure to include a specific aim and hypthesis, well-defined risks and assumptions, and clearly articulated goals and success metrics.
+Project outlines are a valuable resource when working through data projects. For this project, you will need to complete a problem statement and research design outline for the topic you chose from pt. 1. This will serve as the starting point for your modeling approach. Make sure to include a specific aim and hypthesis, well-defined risks and assumptions, and clearly articulated goals. Although we may not have discussed full model evaluation at this point, brainstorm a rough range of what you may consider success (a percent accuracy or a range for predicted values to fall within). For writing your Problem Statement, assure that you have a narrow, clear, and measurable focus, references the [Deliverables](./Deliverables.md) guide.
 
 - **Goal**: Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics.
 <!-- - **[Detailed Spec File](./02-experiment-writeup/readme.md)** -->
@@ -25,7 +25,7 @@ Project outlines are a valuable resource when working through data projects. For
 
 ### **Final Project, pt. 3**
 
-Exploratory data analysis is a crucial and informative step in the data process. In this assignment, you will build off of your previous work, by first confirming a dataset, then exploring and visualizing your analysis in order to effectively tell your data's story. You'll create an iPython notebook that explores your data mathematically, using a python visualization package.
+Exploratory data analysis is a crucial and informative step in the data process. In this assignment, you will build off of your previous work, by first confirming a dataset, then exploring and visualizing your analysis in order to effectively tell your data's story. You'll create an iPython notebook that explores your data mathematically, using a python visualization package. You should consider how to handle missing values, skewed distributions, and how descriptive statistics fit within your assumptions.
 
 - **Goal**: Confirm your data and create an exploratory analysis notebook with stat analysis and visualization.
 <!-- - **[Detailed Spec File](./03-exploratory-analysis/readme.md)** -->
