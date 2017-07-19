@@ -2,9 +2,8 @@
 
 ## Overview
 
-Your final project is your opportunity to hone an independent data science problem, and use your skills from class (and beyond!) to produce a project that demonstrates your new skills.
+Your final project is an opportunity to approach a problem from a data science perspective. You will be required to use all of your skills from class, in order to demonstrate your capability to apply data science concepts to real world problems.
 
-The best final projects the use of data science to **solve a problem.** 
 
 #### Pro Tips:
 - Your problem does not necessarily need to be financially motivated in order to be be insightful. 
