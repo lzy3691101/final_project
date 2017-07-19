@@ -1,26 +1,20 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Part 5: Presentation + Recommendations
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Part 5: Presentation
 
 ### Overview
 
 This is it! You've made it to the finish line. Now that you've finished cleaning, modeling, and tuning your data, you'll need to present your results. Whether during an interview or as part of a job, you will frequently have to present your findings to business partners and other interested parties - many of whom won't know anything about data science!
 
-That's why for Part 5, you'll create a 10-15 minute presentation that delivers the most important insights from your project to a potential audience of non-technical stakeholders. You've already done the analytical work, so now it's time to explain your findings for others.
+That's why for Part 5, you'll create a short presentation that delivers insights from your project to a general audience.
 
-Come up with a detailed slide deck that explains your data, visualizes your model, describes your approach, articulates strengths and weaknesses, and presents specific recommendations. Make sure to review your goals, assumptions, and limitations, and convey your work with visualizations, graphics, and storytelling techniques. You'll also want to include an appendix that summarizes the more technical aspects of your work.
+Create a presentation that reviews your approach and findings, addresses limitations or risks, and suggests next steps. Be prepared for questions!
 
-Finally, be prepared to explain and defend your model to an inquisitive audience!
-
-**Goal:** A public presentation of your project, including an explanation of your model and findings for non-technical audiences.
+**Goal:** A public presentation of your project, including an explanation of your problem solving process for general audiences.
 
 ---
 
 ### Requirements
 
-Your presentation must:
-
-- Describe your project in a 10-15 minute presentation
-- Use visuals, graphics, & storytelling techniques
-- Answer audience questions about your data, model, and findings
+Your presentation should take between 5-10 minutes, including time for questions.
 
 Specifically, the content of your presentation presentation should:
 - Review your topic and problem statement
@@ -29,23 +23,19 @@ Specifically, the content of your presentation presentation should:
 - Clarify any assumptions and model limitations
 - Present insights and findings from your data
 - Create audience-tailored recommendations based on your findings
-- Include a technical appendix
+- Link to any technical details in an appendix
 
-
-- ***Bonus:***
+***Bonus:***
 
  - Create an interactive demo of your data
  - Describe how you could validate your model's performance over time
  - Explain how you would deploy your model in a production environment
- - Share or adapt your presentation materials into a final blog post that describes your goals, criteria, model, findings, and recommendations for a non-technical audience. Link to it in your presentation appendix.
 
 ---
 
-### Necessary Deliverables / Submission
+### Requirements
 
-- A slide deck (or interactive demo) presentation of 10-15 minutes, including:
-  - Requirements listed above + relevant visuals
-- Presentations should be prepared for the end of Week 12.
+1. A presentation of 5-10 minutes, including time for questions.
 
 ---
 
@@ -66,15 +56,12 @@ Specifically, the content of your presentation presentation should:
 
 ### Project Feedback + Evaluation
 
-[Attached here is a complete rubric for this project.](./part-05-rubric.md)
+Your instructors will score each of project requirements using the scale below:
 
-Your instructors will score each of your technical requirements using the scale below:
+Score | Expectations
+----- | ------------
+**0** | _Incomplete._
+**1** | _Does not meet expectations._
+**2** | _Meets expectations, good job!_
 
-    Score | Expectations
-    ----- | ------------
-    **0** | _Incomplete._
-    **1** | _Does not meet expectations._
-    **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
-
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+Feedback will be provided for each requirement
