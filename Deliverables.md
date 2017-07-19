@@ -36,10 +36,19 @@ You have three key deliverables:
 
 ## Sample Schedule - Final Project Deliverables
 
-
 | Lesson  | Deliverables | Status
 | --- | --- | --- |
-| Unit 2, Lesson 5 | Problem statement 	    	| **Assigned** |
-| Unit 3, Lesson 1 | Problem statement 	    	| **Due** |
-| Unit 3, Lesson 1 | Data sources defined			| **Assigned** |
-| Unit 3, Lesson 1 | Data sources defined			| **Assigned** |
+| Unit 2, Lesson 5 | Pt 1: Create Problem statement 	 | **Assigned** |
+| Unit 3, Lesson 1 | Pt 1: Create Problem statement 	 | **Due** |
+| Unit 3, Lesson 1 | Pt 2: Define Data sources           | **Assigned** |
+| Unit 3, Lesson 3 | Pt 2: Define Data sources           | **Due** |
+| Unit 3, Lesson 3 | Pt 3: Perform EDA on Data           | **Assigned** |
+| Unit 4, Lesson 1 | Pt 3: Perform EDA on Data           | **Due** |
+| Unit 4, Lesson 1 | Pt 4: Model Data                    | **Assigned** |
+| Unit 4, Lesson 4 | Pt 4: Model Data                    | **Due** |
+| Unit 4, Lesson 4 | Pt 5: Present Data                  | **Assigned** |
+| Unit 4, Lesson 6 | Pt 5: Present Data                  | **Due** |
+
+
+
+
