@@ -1,46 +1,45 @@
-# ![logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Deliverables Guidelines
+# ![logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Deliverables Guidelines
 
 ## Overview
 
-Your capstone is your opportunity to hone an independent data science problem, and use your skills from class (and beyond!) to produce a project.
+Your final project is your opportunity to hone an independent data science problem, and use your skills from class (and beyond!) to produce a project that demonstrates your new skills.
 
-The best capstones emphasize using data science to **solve a problem.** (That problem need not be financially motivated to be insightful.) Going through the motions of implementing various class methods without clear reason will not prove how you can use your new skills in a deliberate, thoughtful manner.
+The best final projects the use of data science to **solve a problem.** 
 
-The general flow to creating a capstone is the following:
+#### Pro Tips:
+- Your problem does not necessarily need to be financially motivated in order to be be insightful. 
+- Your goal should be to prove that you can use your new skills in a deliberate, thoughtful manner.
+- You may wish to share this project with others, so try to:
+    - Comment all of your code (this is also helpful as reminders for your future self)
+    - Provide clear reasons and rationale for each decision
 
-- Define a problem statement
-- Identify data sources
-- EDA
-- Build a model
-- (Deploy if necessary)
-- Write-up & presentation of findings
+## Project Structure
+The workflow for our final project is as follows:
+
+1. Define a problem statement
+2. Identify data sources
+3. Clean and analyze your data
+4. Build a model
+5. Write up and present your findings
+6. [Optional] Deploy, as desired
 
 ## Deliverables
 
 You have three key deliverables:
 
-- A cleaned Jupyter notebook documenting your process
-- A blog post that can be read by any audience to learn why what you did is useful
-- A presentation for an technically-inclined audience (this presentation can dip into model details but should be approachable by all)
+- A cleaned Jupyter notebook documenting your process for a technical audience
+- A written summary or blog post that explains your project's goals for a non-technical audience.
+- A presentation for a general audience of technical and non-technical stakeholders. In other words, your presentation should balance descriptions of your process with rationale and purpose. 
 
-## Problem Statements
 
-A good problem statement explicitly declares the thesis of what you hope your work will produce. The data sources, problem to be solved, and result that determine success are very clear.
+---
 
-For example:
+## Sample Schedule - Final Project Deliverables
 
-```
-Based on the text summaries of legislative bills from the 115th Congress, predicting the probability that any given bill will pass.
-```
 
-## Timeline
-
-A timeline that will continue to be updated is below. Bolded dates imply in-class action is required.
-
-| Date          | Deliverables			  								 	|
-| ------------- | ----------------------------------------------------------|
-| ??/??/????    | **Problem statement - Draft 1** 							|
-| ??/??/????    | Data sources defined										|
-| ??/??/????    | EDA of data sources										|
-| ??/??/????    | **Presentations are due - 9AM**							|
-| ??/??/????    | **Cleaned Jupyter notebooks and blog posts due**			|
+| Lesson  | Deliverables | Status
+| --- | --- | --- |
+| Unit 2, Lesson 5 | Problem statement 	    	| **Assigned** |
+| Unit 3, Lesson 1 | Problem statement 	    	| **Due** |
+| Unit 3, Lesson 1 | Data sources defined			| **Assigned** |
+| Unit 3, Lesson 1 | Data sources defined			| **Assigned** |
