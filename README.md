@@ -9,9 +9,9 @@ Each project deliverable includes objectives, requirements, starter-code, rubric
 
 ### **Final Project, pt. 1**
 
-In the field of data science, projects are practical. A good project is manageable and relates to your working domain; however, it can be hard to filter and scope good ideas when you're new to a field. One of the best ways to test expectations and get feedback is to share your ideas with others. In advance of presenting this project, pay close attention to the Project [Deliverables](./Deliverables.md) to assure your work will be able to cover the key asks. For part one of your final project, you'll come up with a few different ideas you could potentially solve with a dataset or two, then present them in small groups to the class.
+In the field of data science, projects are practical. A good project is manageable and relates to your working domain; however, it can be hard to filter and scope good ideas when you're new to a field. One of the best ways to test expectations and get feedback is to share your ideas with others. In advance of presenting this project, pay close attention to the Project [Deliverables](./Deliverables.md) to assure your work will be able to cover the key asks. For part one of your final project, you'll come up with a few different ideas you could potentially solve with a dataset or two, then provide a written pitch to your instructor. Feel free to bounce ideas off one another in this process.
 
-- **Goal**: Prepare a one-minute lightning talk that covers 3 potential project topics.
+- **Goal**: Prepare 3 potential project topic 250 word lightning pitches discussing your chosen dataset(s), questions you seek to answer, and challenges you may foresee in your chosen ideas.
 <!-- - **[Detailed Spec File](./01-lightning-talk/readme.md)** -->
 
 
