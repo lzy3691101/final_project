@@ -2,13 +2,13 @@
 
 # Overview
 
-We have sourced four recommended final project datasets, and included three additional "stretch" datasets. All datasets are available through Sailfish at this [link](https://public.sailfish.boozallen.com/exchange/nets/177085/catches)
+We have sourced four final project datasets, as well as three additional "stretch" datasets. All datasets are available through Sailfish at this [link](https://public.sailfish.boozallen.com/exchange/nets/177085/catches).
 
 ## Option 1: Amazon Pricing Data
 
 From ProPublica:
 
-> ProPublica reporters examined Amazon’s shopping algorithm; we scraped data from the company's website to examine listings for 250 bestselling products across a wide range of categories, from electronics to household supplies, over a period of several weeks during summer 2016. We compared pricing and shipping costs for products offered by multiple vendors, including those sold by Amazon, sellers in the "Fulfilled by Amazon" program. In total, we examined 6,973 vendor listings.
+> ProPublica reporters examined Amazon’s shopping algorithm. We scraped data from the company's website to examine listings for 250 bestselling products across a wide range of categories, from electronics to household supplies, over a period of several weeks during summer 2016. We compared pricing and shipping costs for products offered by multiple vendors, including those sold by Amazon, sellers in the "Fulfilled by Amazon" program. In total, we examined 6,973 vendor listings.
 
 Possible areas to examine:
 
