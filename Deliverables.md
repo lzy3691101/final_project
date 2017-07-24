@@ -2,33 +2,33 @@
 
 ## Overview
 
-Your final project is an opportunity to approach a problem from a data science perspective. You will be required to use all of your skills from class, in order to demonstrate your capability to apply data science concepts to real world problems.
+Your final project is an opportunity to approach a problem from a data science perspective. You will be required to use all of your skills from class in order to demonstrate your ability to apply data science concepts to a real world problem.
 
 
 #### Pro Tips:
 - Your problem does not necessarily need to be financially motivated in order to be be insightful. 
 - Your goal should be to prove that you can use your new skills in a deliberate, thoughtful manner.
 - You may wish to share this project with others, so try to:
-    - Comment all of your code (this is also helpful as reminders for your future self)
+    - Comment all of your code (this assists with reproducibility)
     - Provide clear reasons and rationale for each decision
 
 ## Project Structure
-The workflow for our final project is as follows:
+The workflow for our final project is divided up into multiple parts:
 
-1. Define a problem statement
-2. Identify data sources
-3. Clean and analyze your data
-4. Build a model
-5. Write up and present your findings
-6. [Optional] Deploy, as desired
+1. Part 1: Define a problem statement
+2. Part 2: Identify data sources
+3. Part 3: Clean and analyze your data
+4. Part 4: Build a model
+5. Part 5: Write up and present your findings
+6. *Optional*: Deploy, as desired
 
 ## Deliverables
 
-You have three key deliverables:
+By the end of this project, you will have produced three key deliverables:
 
-- A cleaned Jupyter notebook documenting your process for a technical audience
-- A written summary or blog post that explains your project's goals for a non-technical audience.
-- A presentation for a general audience of technical and non-technical stakeholders. In other words, your presentation should balance descriptions of your process with rationale and purpose. 
+- A clean and well-commented Jupyter notebook documenting your model for a technical audience.
+- A written summary (or blog post) that explains your project for a non-technical audience.
+- A presentation that describes your process for a general audience of both technical and non-technical stakeholders. 
 
 
 ---
