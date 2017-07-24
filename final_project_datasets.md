@@ -4,7 +4,7 @@
 
 We have sourced four potential datasets that can be suitably used for final projects, as well as three additional "stretch" datasets that are available but will require substantially more effort. All datasets are available through Sailfish at this [link](https://public.sailfish.boozallen.com/exchange/nets/177085/catches).
 
-#### Option 1: Amazon Pricing Data
+### Option 1: Amazon Pricing Data
 
 From ProPublica:
 
@@ -15,7 +15,9 @@ From ProPublica:
 - How does vendor affect price?
 - How does rank affect an item's price? Or vice versa?
 
-#### Option 2: Health Insurance Marketplace
+---
+
+### Option 2: Health Insurance Marketplace
 
 From Kaggle:
 
@@ -28,9 +30,11 @@ From Kaggle:
 - How do plan rates vary by age?
 - How do plans vary across insurance network providers?
 
-> Note: this dataset is quite large, and taking a random 10% sample by state (with justification) is optional.
+> Note: this dataset is quite large, and taking a random 10% sample by state (with justification) is acceptable.
 
-#### Option 3: 3 Million Instacart Orders
+---
+
+### Option 3: Instacart Orders
 
 Instacart open sourced 3 million of their orders from their databases. It is recommended that you read more via their engineering blog [here](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2).
 
@@ -41,9 +45,11 @@ Instacart open sourced 3 million of their orders from their databases. It is rec
 - How many different cart sizes there appear to be among buyers, and what meaningful differences exist in those basket of goods?
 - How does order affect when a user adds something to cart?
 
-> Note: this dataset is quite large, and taking a random 10% sample by state (with justification) is .
+> Note: this dataset is quite large, and taking a random 10% sample by state (with justification) is acceptable.
 
-#### Option 4: 
+---
+
+### Option 4: Loan Data
 
 From Kaggle:
 
@@ -60,7 +66,7 @@ From Kaggle:
 
 These "stretch" datasets are ordered by an estimated feasibility of analysis for your final project. The reason they are considered optional is denoted for each item. Even if you are unable to complete work with one these datasets, know that additional practice will unlock the skills necessary to complete a final project on any of the following suggestions:
 
-#### Option 5: Fuel Economy Data
+### Option 5: Fuel Economy Data
 
 The US Environmental Protection Agency publishes miles per gallon data following tests of vehicles on the road in the U.S. Datasets from the years 2000 - 2018 for all make and models are readily accessible.
 
@@ -75,7 +81,9 @@ The multi-year nature of the dataset may prove to be a data wrangling challenge.
 
 > Moreover, forecasting is not explicitly covered in this portion, so model selection may be a panel OLS by year or a decision tree regressor.
 
-#### Option 6: Craft Beers
+---
+
+### Option 6: Craft Beers
 
 Craftcans.com maintains a continuously updated dataset of, currently (as of July 2017), 2962 craft beers. The data contains the beer name, brewery, location, style, size, ABV, and IBUs.
 
@@ -89,7 +97,9 @@ The multi-year nature of the dataset may prove to be a data wrangling challenge.
 
 > Moreover, forecasting is not explicitly covered in this portion, so model selection may be a panel OLS by year or a decision tree regressor.
 
-#### Option 7: All Trump Tweets
+---
+
+### Option 7: All Trump Tweets
 
 A live updating JSON database of all of President Donald J. Trump's tweets is available. The data also includes basic metadata: time tweeted, retweets, favorites, and more. The dataset is updated hourly.
 
