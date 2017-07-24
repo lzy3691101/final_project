@@ -87,7 +87,7 @@ Second, create a presentation that reviews your project in more detail, but stil
    - Performance evaluation (compared to original success metrics)
    - Impact of findings and any recommendations
    - Suggestions for implementation or next steps
- 4. *Optional:* Create / host an interactive demo of your model in action!
+ 4. *Optional:* Create / host an interactive demo of your model!
 
 
  ---
