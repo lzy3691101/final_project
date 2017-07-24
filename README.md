@@ -29,9 +29,9 @@ For this writeup, describe your hypothesis and assumptions, articulate your spec
 **Requirements**
 1. Restate your specific problem statement
 2. Expand on your initial proposal by including:
-  - Hypothesis / Assumptions
-  - Goals & Success metrics
-  - Risks or Limitations
+   - Hypothesis / Assumptions
+   - Goals & Success metrics
+   - Risks or Limitations
 3. Articulate the specific dataset you've chosen and why
   
 ---
@@ -80,13 +80,13 @@ Second, create a presentation that reviews your project in more detail, but stil
 1. Create a one page summary writeup (or blog post) that explains your project for a non-technical audience.
 2. Create a detailed presentation (e.g. slide deck) that explains your model findings for a general audience (i.e. mixed technical and non-technical stakeholders).
 3. Your presentation should include:
-  - Problem statement
-  - Initial metrics and assumptions
-  - Approach and process
-  - Data model
-  - Performance evaluation (compared to original success metrics)
-  - Impact of findings and any recommendations
-  - suggestions for implementation or next steps
+   - Problem statement
+   - Initial metrics and assumptions
+   - Approach and process
+   - Data model
+   - Performance evaluation (compared to original success metrics)
+   - Impact of findings and any recommendations
+   - Suggestions for implementation or next steps
  4. *Optional:* Create / host an interactive demo of your model in action!
 
 
