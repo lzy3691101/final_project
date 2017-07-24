@@ -15,12 +15,12 @@ Your final project is an opportunity to approach a problem from a data science p
 ## Project Structure
 The workflow for our final project is divided up into multiple parts:
 
-1. Part 1: Define a problem statement
-2. Part 2: Identify data sources
+1. Part 1: Pitch possible problems to solve
+2. Part 2: Build a problem statement from your data sources
 3. Part 3: Clean and analyze your data
-4. Part 4: Build a model
+4. Part 4: Build a working model
 5. Part 5: Write up and present your findings
-6. *Optional*: Deploy, as desired
+6. *Optional*: Deploy or share your model, as desired
 
 ## Deliverables
 
