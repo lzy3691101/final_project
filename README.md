@@ -1,42 +1,93 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science: Final Project
 
-> The Final Project is divided into 5 deliverables, each building on top of skills learned previously to scaffold students' learning over the entire course.
+> The Final Project is divided into 5 deliverables, each part building upon the previous section. You goal is to build a polished working model that can be shared with members of your field.
+
+---
+
+## Final Project, Part 1: Pitch
+> Test and validate 2-3 initial ideas
+
+In the field of data science, projects are practical. One of the best ways to quickly test ideas is to share your ideas with others and get feedback. Start by reviewing the [project deliverables](./Deliverables.md) and [suggested datasets](./final_project_datasets.md), then generate a list of 2-3 potential ideas you'd like to pursue. 
+
+**Requirements**
+1. Generate 2-3 different possible problem statements (of at least 250 words each)
+    - State the questions you seek to answer, dataset suggestions, and possible challenges.
+2. Create a written pitch for each possibility that can be shared with your instructor and classmates.
+3. Submit or present your pitch as required by your instructor.
+
+---
+
+## Final Project, Part 2: Proposal
+> Select data and outline specific goals
+
+Based on feedback from part one, expand on your initial proposal. Spend more time looking through the datasets and outline the initial logic of your approach in a detailed problem statement. 
+
+For this writeup, describe your hypothesis and assumptions, articulate your specific aim and success metrics, and state any risks or limitations. Make sure you've also explained which dataset you've selected for this project and why.
+
+> As before, make sure to review the [project deliverables](./Deliverables.md) and [suggested datasets](./final_project_datasets.md) while preparing your proposal.
+
+**Requirements**
+1. Restate your specific problem statement
+2. Expand on your initial proposal by including:
+  - Hypothesis / Assumptions
+  - Goals & Success metrics
+  - Risks or Limitations
+3. Articulate the specific dataset you've chosen and why
+  
+---
+
+## Final Project, Part 3: Exploratory Data Analysis
+> Clean and analyze your dataset
+
+Exploratory data analysis is a crucial step in the data workflow. Create a jupyter notebook that explores your data mathematically and visually. You should explore features, apply descriptive statistics, look at distributions, and determine how to handle sampling or any missing values.
+
+**Requirements**
+1. Create an exploratory analysis notebook
+2. Include statistical analysis and EDA visualizations
+3. Determine how to handle sampling or missing values
+4. Submit or share EDA notebook as per your instructor's directions.
+
+---
+
+## Final Project, Part 4: Technical Notebook
+> Build and document a working model
+
+By now, you're ready to apply your modeling skills to make machine learning predictions. Your goal for this project is to develop a working predictive model or process to resolve your problem statement. You should document your work in a technical notebook that can be shared with your peers.
+
+Build upon your earlier EDA notebook, expanding on your statistical analysis, and include your final model, along with any specific performance metrics and evaluation criteria. Organize your information clearly for an external audience, including a table of contents and clearly demarcated sections, using markdown to create subheaders or descriptions as needed. Finally, include comments on all of your code.
+
+**Requirements**
+1. Detailed Jupyter notebook with a summary of your: statistical analysis, model, and evaluation metrics.
+2. Use markdown to clearly organize all of your notebook's information.
+3. Include comments on all of your code.
+
+> Note: Here are some things to consider in your notebook: sample size, correlations, feature importance, unexplained variance or outliers, variable selection, train/test comparison, and any relationships between your target and independent variables.
+
+---
+
+## Final Project, Part 5: Presentation
+> Summarize and present your findings
+
+As a data scientist, you'll frequently be asked to present your findings to a mixed audience of technical and non-technical stakeholders, so it's important to practice summarizing and breaking down your process for different audiences. 
+
+First, create a short summary of your problem and solution for a general audience. Keep it short and concise (i.e. 1 page). Think of this as an executive summary, or - if you prefer - frame it as a blog post.
+
+Second, create a presentation that reviews your project in more detail, but still balances information for a general audience. Use visuals, explains your goals and approach, compare results against initial metrics, and describe the impact of your findings. Be prepared to explain and defend your model to an inquisitive audience!
+
+> Optional: As a stretch challenge, try creating an interactive demo of your model in action!
+
+**Requirements**
+1. Create a one page summary writeup (or blog post) that explains your project for a non-technical audience.
+2. Create a detailed presentation (e.g. slide deck) that explains your model findings for a general audience (i.e. mixed technical and non-technical stakeholders).
+3. Your presentation should include:
+  - Problem statement
+  - Initial metrics and assumptions
+  - Approach and process
+  - Data model
+  - Performance evaluation (compared to original success metrics)
+  - Impact of findings and any recommendations
+  - suggestions for implementation or next steps
+ 4. *Optional:* Create / host an interactive demo of your model in action!
 
 
-
-### **Final Project, pt. 1**
-
-In the field of data science, projects are practical. A good project is manageable and relates to your working domain; however, it can be hard to filter and scope good ideas when you're new to a field. One of the best ways to test expectations and get feedback is to share your ideas with others. In advance of presenting this project, pay close attention to the Project [Deliverables](./Deliverables.md) to assure your work will be able to cover the key asks. For part one of your final project, you'll come up with a few different ideas you could potentially solve with a dataset or two, then provide a written pitch to your instructor. Feel free to bounce ideas off one another in this process.
-
-- **Goal**: Prepare 3 potential project topic 250 word lightning pitches discussing your chosen dataset(s), questions you seek to answer, and challenges you may foresee in your chosen ideas.
-
-### **Final Project, pt. 2**
-
-Project outlines are a valuable resource when working through data projects. For this project, you will need to complete a problem statement and research design outline for the topic you chose from pt. 1. This will serve as the starting point for your modeling approach. Make sure to include a specific aim and hypthesis, well-defined risks and assumptions, and clearly articulated goals. Although we may not have discussed full model evaluation at this point, brainstorm a rough range of what you may consider success (a percent accuracy or a range for predicted values to fall within). For writing your Problem Statement, assure that you have a narrow, clear, and measurable focus, references the [Deliverables](./Deliverables.md) guide.
-
-- **Goal**: Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics.
-
-
-### **Final Project, pt. 3**
-
-Exploratory data analysis is a crucial and informative step in the data process. In this assignment, you will build off of your previous work, by first confirming a dataset, then exploring and visualizing your analysis in order to effectively tell your data's story. You'll create an iPython notebook that explores your data mathematically, using a python visualization package. You should consider how to handle missing values, skewed distributions, and how descriptive statistics fit within your assumptions.
-
-- **Goal**: Confirm your data and create an exploratory analysis notebook with stat analysis and visualization.
-
-
-### **Final Project, pt. 4**
-
-By now, you're ready to apply your modeling skills to make machine learning predictions. Our goal for this project is to develop a working technical document that can be shared amongst your peers.
-
-Use your model to display correlations, feature importance, and unexplained variance. Document your research with a summary, explaining your modeling approach as well as the strengths and weaknesses of any variables in the process. You should provide insight into your analysis, using best practices like cross validation or applicable prediction metrics. Look at how your model performs compared to a dummy model, and articulate the benefit gained by using your specific model to solve this problem. Finally, build visualizations that explain outliers and the relationships of your predicted parameter and independent variables.
-
-- **Goal**: Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics.
-
-
-### **Final Project, pt. 5**
-
-Whether during an interview or as part of a job, you will frequently have to present your findings to business partners and other interested parties - many of whom won't know anything about data science! That's why for pt. 5, you'll create a presentation of your previous findings with a non-technical audience in mind.
-
-You should already have the analytical work complete, so now it's time to clean up and clarify your findings. Come up with a detailed 10-20 slide deck or interactive demo that explains your data, visualizes your model, describes your approach, articulates strengths and weaknesses, and presents specific recommendations. Be prepared to explain and defend your model to an inquisitive audience!
-
-- **Goal**: Detailed presentation deck that relates your data, model, and findings to a non-technical audience.
+ ---
