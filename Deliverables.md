@@ -8,8 +8,8 @@ Your final project is an opportunity to approach a problem from a data science p
 - Your problem does not necessarily need to be financially motivated in order to be be insightful. 
 - Your goal should be to prove that you can use your new skills in a deliberate, thoughtful manner.
 - You may wish to share this project with others, so make sure to articulate your logic by:
-    - Commenting on all of your code (this assists with reproducibility)
-    - Providing clear reasons and rationale for each of your decisions
+    - Commenting on all of your code (this assists with reproducibility).
+    - Providing clear reasons and rationale for each of your decisions.
     - Frame your specific analysis, stating any risks, limitations, or areas that you were unable to get to.
 
 ---
