@@ -45,7 +45,7 @@ Instacart open sourced 3 million of their orders from their databases. It is rec
 - How many different cart sizes there appear to be among buyers, and what meaningful differences exist in those basket of goods?
 - How does order affect when a user adds something to cart?
 
-> Note: this dataset is quite large, and taking a random 10% sample by state (with justification) is acceptable.
+> Note: this dataset is quite large, and taking a random 10% sample (with justification) is acceptable.
 
 ---
 
