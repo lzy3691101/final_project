@@ -80,7 +80,7 @@ The U.S. Environmental Protection Agency publishes miles-per-gallon data followi
 
 The multi-year nature of the data set may prove to be a data-wrangling challenge. Nonetheless, the overall size of the set across years makes it approachable — perhaps even more so than prior options.
 
-> Moreover, forecasting is not explicitly covered here, so model selection may be a panel OLS by year or a decision tree regressor.
+> Moreover, forecasting is not explicitly covered in this portion of the course, so model selection may be a panel OLS by year or a decision tree regressor.
 
 ---
 
@@ -97,21 +97,21 @@ Craftcans.com maintains a continuously updated data set of (as of July 2017) 2,9
 
 The multi-year nature of the data set may prove to be a data-wrangling challenge. Nonetheless, the overall size of the set across years makes it approachable — perhaps even more so than prior options.
 
-> Moreover, forecasting is not explicitly covered here, so model selection may be a panel OLS by year or a decision tree regressor.
+> Moreover, forecasting is not explicitly covered in this portion of the course, so model selection may be a panel OLS by year or a decision tree regressor.
 
 ---
 
 ### Option 7: All Trump Tweets
 
-A live-updating JSON database is available containing all of President Donald J. Trump's tweets. The data set also includes basic metadata: time tweeted, retweets, favorites, and more. The dataset is updated hourly.
+A live-updating JSON database is available containing all of President Donald J. Trump's tweets. The data set also includes basic metadata: time tweeted, retweets, favorites, and more. It is updated hourly.
 
 **Possible areas to examine:**
 
 - How does specific word choice affect engagement?
-- How does wordc hoice change over time?
+- How does word choice change over time?
 
 **Difficulty Assessment**
 
-Natural language processing is taught relatively late in our curriculum. Thus, this data set relies on an aggressive back-loaded project schedule. Moreover, this data set is available in JSON, meaning the user will need to explore it independently  using Pandas or use the `JSON` package in Python to read in the data. 
+Natural language processing is taught relatively late in our curriculum. Thus, this data set relies on an aggressive back-loaded project schedule. Moreover, this data set is available in JSON, meaning the user will need to explore it independently  using Pandas or use the `JSON` package in Python to read it in. 
 
 > This is a great example of data you should use to continue practicing your new skill set beyond this course.
