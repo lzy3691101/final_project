@@ -2,7 +2,7 @@
 
 ## Suggested Data Sets
 
-Below, we have sourced four suggested datasets that can be used for final projects. We've also provided three additional choices, but note that these "optional" selections are more complicated and will require a substantial amount of effort. 
+Below, we have sourced four suggested datasets that can be used for final projects. We've also provided three additional choices, but note that these "advanced" selections are more complicated and will require a substantial amount of effort. 
 
 All of the curated data sets described below [can be found in Sailfish through this link](https://public.sailfish.boozallen.com/exchange/nets/177085/catches).
 
@@ -14,7 +14,7 @@ All of the curated data sets described below [can be found in Sailfish through t
 | [Option 2](#option2) | 
 | [Option 3](#option3) | 
 | [Option 4](#option4) | 
-| *Optional Datasets* |
+| *Advanced Datasets* |
 | [Option 5](#option5) | 
 | [Option 6](#option6) | 
 | [Option 7](#option7) | 
@@ -85,7 +85,7 @@ From Kaggle:
 
 ---
 
-## Additional Data Sets (Optional)
+## Advanced Data Sets (Optional)
 
 These "stretch" data sets are ordered by an estimated feasibility of analysis for your final project. The reason they are considered optional is denoted for each item. Even if you are unable to complete work with one these data sets, know that additional practice will unlock the skills necessary to complete a final project on any of the following suggestions.
 
