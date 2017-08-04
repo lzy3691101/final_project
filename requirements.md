@@ -13,6 +13,7 @@
 ---
 
 <a name="pitch">
+
 ## Final Project, Part 1: Pitch
 > Test and validate 2–3 initial ideas.
 
