@@ -6,12 +6,12 @@ We have sourced four potential data sets that can be suitably used for final pro
 
 | Dataset Suggestions | 
 | --- | 
-|Note: Datasets 1-4 are suggested |
+|*Suggested Datasets* |
 | [Option 1](#option1) |
 | [Option 2](#option2) | 
 | [Option 3](#option3) | 
 | [Option 4](#option4) | 
-| Note: Datasets 5-7 are optional due to additional complexity |
+| *Optional Datasets* |
 | [Option 5](#option5) | 
 | [Option 6](#option6) | 
 | [Option 7](#option7) | 
