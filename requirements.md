@@ -17,7 +17,7 @@
 ## Final Project, Part 1: Pitch
 > Test and validate 2–3 initial ideas.
 
-In the field of data science, projects are practical. One of the best ways to quickly test ideas is to share your ideas with others and get feedback. Start by reviewing the [project deliverables](./Deliverables.md) and [suggested data sets](./final_project_datasets.md), then generate a list of 2–3 potential ideas you'd like to pursue. 
+In the field of data science, projects are practical. One of the best ways to quickly test ideas is to share your ideas with others and get feedback. Start by reviewing the requirements and [suggested data sets](./datasets.md), then generate a list of 2–3 potential ideas you'd like to pursue. 
 
 **Requirements**
 1. Generate 2–3 different possible problem statements (of at least 250 words each).
@@ -35,7 +35,7 @@ Based on the feedback your received in Part 1, expand on your initial proposal. 
 
 For this write up, describe your hypothesis and assumptions, articulate your specific aim and success metrics, and state any risks or limitations. Make sure you've also explained which data set you've selected for this project and why.
 
-> Like before, make sure to review the [project deliverables](./Deliverables.md) and [suggested data sets](./final_project_datasets.md) while preparing your proposal.
+As before, make sure to review the requirements and [suggested data sets](./datasets.md) while preparing your proposal.
 
 **Requirements**
 1. Restate your specific problem statement.
@@ -88,7 +88,7 @@ First, create a short summary of your problem and solution for a general audienc
 
 Second, create a presentation that reviews your project in more detail but still balances information for a general audience. Use visuals, explain your goals and approach, compare your results against initial metrics, and describe the impact of your findings. Be prepared to explain and defend your model to an inquisitive audience!
 
-> Optional: As a stretch challenge, try creating an interactive demo of your model in action!
+*Optional*: As a stretch challenge, try creating an interactive demo of your model in action, explain how you would deploy your model in a production environment, or discuss how to evaluate model performance over time.
 
 **Requirements**
 1. Create a one-page summary write up (or blog post) that explains your project for a non-technical audience.
