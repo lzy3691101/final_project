@@ -4,7 +4,21 @@
 
 We have sourced four potential data sets that can be suitably used for final projects, as well as three additional "stretch" data sets that are available but will require a substantial amount of additional effort. All data sets are available through Sailfish at this [link](https://public.sailfish.boozallen.com/exchange/nets/177085/catches).
 
-### Option 1: Amazon Pricing Data
+| Dataset Suggestions | 
+| --- | 
+| [Option 1](#option1) |
+| [Option 2](#option2) | 
+| [Option 3](#option3) | 
+| [Option 4](#option4) | 
+| [Option 5](#option5) | 
+| [Option 6](#option6) | 
+| [Option 7](#option7) | 
+
+
+---
+
+<a name="option1"></a>
+## Option 1: Amazon Pricing Data
 
 From ProPublica:
 
@@ -17,6 +31,7 @@ From ProPublica:
 
 ---
 
+<a name="option2"></a>
 ### Option 2: Health Insurance Marketplace
 
 From Kaggle:
@@ -34,6 +49,7 @@ From Kaggle:
 
 ---
 
+<a name="option3"></a>
 ### Option 3: Instacart Orders
 
 Instacart open-sourced 3 million orders from its databases. We recommend you read more via its engineering blog [here](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2).
@@ -49,6 +65,7 @@ Instacart open-sourced 3 million orders from its databases. We recommend you rea
 
 ---
 
+<a name="option4"></a>
 ### Option 4: Loan Data
 
 From Kaggle:
@@ -66,6 +83,7 @@ From Kaggle:
 
 These "stretch" data sets are ordered by an estimated feasibility of analysis for your final project. The reason they are considered optional is denoted for each item. Even if you are unable to complete work with one these data sets, know that additional practice will unlock the skills necessary to complete a final project on any of the following suggestions.
 
+<a name="option5"></a>
 ### Option 5: Fuel Economy Data
 
 The U.S. Environmental Protection Agency publishes miles-per-gallon data following tests of vehicles on the road in the United States. Data sets from the years 2000–2018 are readily accessible for all make and models.
@@ -84,6 +102,7 @@ The multi-year nature of the data set may prove to be a data-wrangling challenge
 
 ---
 
+<a name="option6"></a>
 ### Option 6: Craft Beers
 
 Craftcans.com maintains a continuously updated data set of (as of July 2017) 2,962 craft beers. The data contains the beer name, brewery, location, style, size, ABV, and IBUs.
@@ -101,6 +120,7 @@ The multi-year nature of the data set may prove to be a data-wrangling challenge
 
 ---
 
+<a name="option7"></a>
 ### Option 7: All Trump Tweets
 
 A live-updating JSON database is available containing all of President Donald J. Trump's tweets. The data set also includes basic metadata: time tweeted, retweets, favorites, and more. It is updated hourly.
