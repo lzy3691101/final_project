@@ -11,7 +11,7 @@ All of the curated data sets described below [can be found in Sailfish through t
 | --- | 
 |*Suggested Datasets* |
 | [Option 1: Amazon Pricing Data](#option1) |
-| [Option 2: Health Insurance Marketplace Data](#option2) | 
+| [Option 2: Insurance Marketplace Data](#option2) | 
 | [Option 3: Instacart Order Data](#option3) | 
 | [Option 4: Loan Data](#option4) | 
 | *Advanced Datasets* |
