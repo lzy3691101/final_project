@@ -2,7 +2,7 @@
 
 > See below for specific deliverable requirements
 
-Deliverables | Schedule
+| Deliverables | Schedule |
 | --- | --- |
 | [Part 1](#pitch)        | [Suggested Schedule](./schedule.md#schedule) |
 | [Part 2](#proposal)     | [Suggested Schedule](./schedule.md#schedule)  |
@@ -12,8 +12,8 @@ Deliverables | Schedule
 
 ---
 
-
-## [Final Project, Part 1: Pitch](#pitch)
+<a name="pitch">
+## Final Project, Part 1: Pitch
 > Test and validate 2–3 initial ideas.
 
 In the field of data science, projects are practical. One of the best ways to quickly test ideas is to share your ideas with others and get feedback. Start by reviewing the [project deliverables](./Deliverables.md) and [suggested data sets](./final_project_datasets.md), then generate a list of 2–3 potential ideas you'd like to pursue. 
@@ -26,7 +26,8 @@ In the field of data science, projects are practical. One of the best ways to qu
 
 ---
 
-## [Final Project, Part 2: Proposal](#proposal)
+<a name="proposal"></a>
+## Final Project, Part 2: Proposal
 > Select data and outline specific goals.
 
 Based on the feedback your received in Part 1, expand on your initial proposal. Spend more time looking through the data sets and outline the initial logic of your approach in a detailed problem statement. 
@@ -45,7 +46,8 @@ For this write up, describe your hypothesis and assumptions, articulate your spe
   
 ---
 
-## [Final Project, Part 3: Exploratory Data Analysis](#eda)
+<a name="eda"></a>
+## Final Project, Part 3: Exploratory Data Analysis
 > Clean and analyze your data set.
 
 Exploratory data analysis is a crucial step in the data workflow. Create a Jupyter Notebook that explores your data both mathematically and visually. You should explore features, apply descriptive statistics, look at distributions, and determine how to handle sampling or any missing values.
@@ -58,7 +60,8 @@ Exploratory data analysis is a crucial step in the data workflow. Create a Jupyt
 
 ---
 
-## [Final Project, Part 4: Technical Notebook](#notebook)
+<a name="notebook"></a>
+## Final Project, Part 4: Technical Notebook
 > Build and document a working model.
 
 By now, you're ready to apply your modeling skills to make machine learning predictions. Your goal for this project is to develop a working predictive model or process to resolve your problem statement. You should document your work in a technical notebook that can be shared with your peers.
@@ -74,7 +77,8 @@ Build upon your earlier EDA notebook, expanding on your statistical analysis, an
 
 ---
 
-## [Final Project, Part 5: Presentation](#presentation)
+<a name="presentation"></a>
+## Final Project, Part 5: Presentation
 > Summarize and present your findings.
 
 As a data scientist, you'll frequently be asked to present your findings to a mixed audience of both technical and non-technical stakeholders, so it's important to practice summarizing and breaking down your process for different levels of expertise. 
@@ -87,7 +91,9 @@ Second, create a presentation that reviews your project in more detail but still
 
 **Requirements**
 1. Create a one-page summary write up (or blog post) that explains your project for a non-technical audience.
+
 2. Create a detailed presentation (e.g., slide deck) that explains your model findings for a general audience (i.e., a mix of technical and non-technical stakeholders).
+
 3. Your presentation should include:
    - A problem statement.
    - Initial metrics and assumptions.
@@ -96,4 +102,7 @@ Second, create a presentation that reviews your project in more detail but still
    - Your performance evaluation (compared to original success metrics).
    - The impact of your findings and any recommendations.
    - Suggestions for implementation or next steps.
- 4. *Optional:* Create/host an interactive demo of your model!
+
+ 4. *Optional:* Create/host an interactive demo of your model, explain how to deploy your model, or describe how you would evaluate performance over time.
+
+---
