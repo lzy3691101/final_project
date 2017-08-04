@@ -1,5 +1,17 @@
 # ![logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Final Project Structure & Schedule
 
+> Additional information on final project structure and delivery schedule
+
+| Table of Contents | 
+| --- | 
+| [Project Overview](#overview) |
+| [Project Structure](#structure) | 
+| [Project Deliverables](#deliverables) | 
+| [Suggested Schedule](#schedule) | 
+
+---
+
+<a name="overview"></a>
 ## Overview
 
 Your final project is an opportunity to approach a problem from a data science perspective. You will be required to use all of your newfound skills in order to demonstrate how to use data science to approach a real-world problem. 
@@ -14,6 +26,7 @@ Your final project is an opportunity to approach a problem from a data science p
 
 ---
 
+<a name="structure"></a>
 ## Project Structure
 The workflow for your final project is divided up into multiple parts:
 
@@ -26,6 +39,7 @@ The workflow for your final project is divided up into multiple parts:
 
 ---
 
+<a name="deliverables"></a>
 ## Deliverables
 
 By the end of this project, you will have produced three key deliverables:
@@ -36,6 +50,7 @@ By the end of this project, you will have produced three key deliverables:
 
 ---
 
+<a name="schedule"></a>
 ## Sample Schedule - Final Project Deliverables
 
 | Lesson  | Deliverables | Status
@@ -51,6 +66,4 @@ By the end of this project, you will have produced three key deliverables:
 | Unit 4, Lesson 4 | Pt 5: Present Data                  | **Assigned** |
 | Unit 4, Lesson 6 | Pt 5: Present Data                  | **Due** |
 
-
-
-
+---
