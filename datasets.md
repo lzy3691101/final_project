@@ -2,7 +2,10 @@
 
 ## Suggested Data Sets
 
-We have sourced four potential data sets that can be suitably used for final projects, as well as three additional "stretch" data sets that are available but will require a substantial amount of additional effort. All data sets are available through Sailfish at this [link](https://public.sailfish.boozallen.com/exchange/nets/177085/catches).
+Below, we have sourced four suggested datasets that can be used for final projects. We've also provided three additional choices, but note that these "optional" selections are more complicated and will require a substantial amount of effort. 
+
+All of the curated data sets described below [can be found in Sailfish through this link](https://public.sailfish.boozallen.com/exchange/nets/177085/catches).
+
 
 | Dataset Suggestions | 
 | --- | 
@@ -16,7 +19,7 @@ We have sourced four potential data sets that can be suitably used for final pro
 | [Option 6](#option6) | 
 | [Option 7](#option7) | 
 
-> Note: Alternatively, instructors may optionally allow students to choose their own final projects datasets. Students should clearly indicate this preference and discuss their choice(s) with instructors ahead of time.
+> Note: Alternatively, instructors may optionally allow students to choose their own final projects dataset. Students should clearly indicate this preference and discuss their choice(s) with instructors ahead of time.
 
 ---
 
