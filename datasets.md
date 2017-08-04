@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Final Project Data Sets
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Final Project Datasets
 
-## Suggested Data Sets
+## Suggested Datasets
 
 Below, we have sourced four suggested datasets that can be used for final projects. We've also provided three additional choices, but note that these "advanced" selections are more complicated and will require a substantial amount of effort. 
 
