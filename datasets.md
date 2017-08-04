@@ -10,14 +10,14 @@ All of the curated data sets described below [can be found in Sailfish through t
 | Dataset Suggestions | 
 | --- | 
 |*Suggested Datasets* |
-| [Option 1](#option1) |
-| [Option 2](#option2) | 
-| [Option 3](#option3) | 
-| [Option 4](#option4) | 
+| [Option 1: Amazon Pricing Data](#option1) |
+| [Option 2: Health Insurance Marketplace Data](#option2) | 
+| [Option 3: Instacart Order Data](#option3) | 
+| [Option 4: Loan Data](#option4) | 
 | *Advanced Datasets* |
-| [Option 5](#option5) | 
-| [Option 6](#option6) | 
-| [Option 7](#option7) | 
+| [Option 5: Fuel Economy Data](#option5) | 
+| [Option 6: Craft Beer Data](#option6) | 
+| [Option 7: Trump Tweet Data](#option7) | 
 
 > Note: Alternatively, instructors may optionally allow students to choose their own final projects dataset. Students should clearly indicate this preference and discuss their choice(s) with instructors ahead of time.
 
