@@ -29,9 +29,9 @@ For this write up, describe your hypothesis and assumptions, articulate your spe
 **Requirements**
 1. Restate your specific problem statement.
 2. Expand on your initial proposal by including:
-   - A hypothesis/assumptions.
-   - Goals and success metrics.
-   - Risks or limitations.
+   - Hypothesis/assumptions
+   - Goals and success metrics
+   - Risks or limitations
 3. Articulate the specific data set you've chosen and why.
   
 ---
