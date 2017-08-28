@@ -55,15 +55,22 @@ By the end of this project, you will have produced three key deliverables:
 
 | Lesson  | Deliverables | Status
 | --- | --- | --- |
-| Unit 2, Lesson 5 | Pt 1: Create Problem Statement 	 | **Assigned** |
-| Unit 3, Lesson 1 | Pt 1: Create Problem Statement 	 | **Due** |
-| Unit 3, Lesson 1 | Pt 2: Define Data Sources           | **Assigned** |
-| Unit 3, Lesson 3 | Pt 2: Define Data Sources           | **Due** |
-| Unit 3, Lesson 3 | Pt 3: Perform EDA on Data           | **Assigned** |
-| Unit 4, Lesson 1 | Pt 3: Perform EDA on Data           | **Due** |
-| Unit 4, Lesson 1 | Pt 4: Model Data                    | **Assigned** |
-| Unit 4, Lesson 4 | Pt 4: Model Data                    | **Due** |
-| Unit 4, Lesson 4 | Pt 5: Present Data                  | **Assigned** |
-| Unit 4, Lesson 6 | Pt 5: Present Data                  | **Due** |
+| Unit 1, Lesson 1 | Review Projects and Deliverables	         | **Discuss** |
+| Unit 2, Lesson 2 | Review Final Project Dataset Suggestions	 | **Discuss** |
+| --- | --- | --- |
+| Unit 2, Lesson 5 | Pt 1: Create Problem Statement 	         | **Assigned** |
+| Unit 3, Lesson 1 | Pt 1: Create Problem Statement 	         | **Due** |
+| --- | --- | --- |
+| Unit 3, Lesson 1 | Pt 2: Define Data Sources                   | **Assigned** |
+| Unit 3, Lesson 3 | Pt 2: Define Data Sources                   | **Due** |
+| --- | --- | --- |
+| Unit 3, Lesson 3 | Pt 3: Perform EDA on Data                   | **Assigned** |
+| Unit 4, Lesson 1 | Pt 3: Perform EDA on Data                   | **Due** |
+| --- | --- | --- |
+| Unit 4, Lesson 1 | Pt 4: Model Data                            | **Assigned** |
+| Unit 4, Lesson 4 | Pt 4: Model Data                            | **Due** |
+| --- | --- | --- |
+| Unit 4, Lesson 4 | Pt 5: Present Data                          | **Assigned** |
+| Unit 4, Lesson 6 | Pt 5: Present Data                          | **Due** |
 
 ---
