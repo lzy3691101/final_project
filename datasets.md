@@ -4,9 +4,6 @@
 
 Below, we have sourced four suggested datasets that can be used for final projects. We've also provided three additional choices, but note that these "advanced" selections are more complicated and will require a substantial amount of effort. 
 
-All of the curated data sets described below [can be found in Sailfish through this link](https://public.sailfish.boozallen.com/exchange/nets/177085/catches).
-
-
 | Dataset Suggestions | 
 | --- | 
 |*Suggested Datasets* |
@@ -18,6 +15,7 @@ All of the curated data sets described below [can be found in Sailfish through t
 | [Option 5: Fuel Economy Data](#option5) | 
 | [Option 6: Craft Beer Data](#option6) | 
 | [Option 7: Trump Tweet Data](#option7) | 
+| [Option 8: Choose Your Own](#option8) |
 
 > Note: Alternatively, instructors may optionally allow students to choose their own final projects dataset. Students should clearly indicate this preference and discuss their choice(s) with instructors ahead of time.
 
@@ -34,6 +32,8 @@ From ProPublica:
 
 - How does vendor affect price?
 - How does rank affect an item's price? Or vice versa?
+
+[Download Here](https://www.propublica.org/datastore/dataset/amazon-pricing-algorithm-data-set)
 
 ---
 
@@ -53,6 +53,8 @@ From Kaggle:
 
 > Note: This data set is quite large, and taking a random 10-percent sample by state (with justification) is acceptable.
 
+[Download Here](https://www.kaggle.com/hhs/health-insurance-marketplace)
+
 ---
 
 <a name="option3"></a>
@@ -69,6 +71,10 @@ Instacart open-sourced 3 million orders from its databases. We recommend you rea
 
 > Note: This data set is quite large, and taking a random 10-percent sample (with justification) is acceptable.
 
+[Download Here](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+
 ---
 
 <a name="option4"></a>
@@ -82,6 +88,8 @@ From Kaggle:
 
 - What factors most explain on-time loan repayments?
 - As a bank, what evaluation metric would you opt for to determine if a given load should be given? As a consumer, what evaluation metric would you opt for to determine if a given loan should be given? How does this affect your model's performance?
+
+[Download Here](https://www.kaggle.com/wendykan/lending-club-loan-data)
 
 ---
 
@@ -106,6 +114,8 @@ The multi-year nature of the data set may prove to be a data-wrangling challenge
 
 > Moreover, forecasting is not explicitly covered in this portion of the course, so model selection may be a panel OLS by year or a decision tree regressor.
 
+[Download Here](https://www.kaggle.com/epa/fuel-economy)
+
 ---
 
 <a name="option6"></a>
@@ -124,6 +134,8 @@ The multi-year nature of the data set may prove to be a data-wrangling challenge
 
 > Moreover, forecasting is not explicitly covered in this portion of the course, so model selection may be a panel OLS by year or a decision tree regressor.
 
+[Download Here](https://www.kaggle.com/nickhould/craft-cans)
+
 ---
 
 <a name="option7"></a>
@@ -141,3 +153,12 @@ A live-updating JSON database is available containing all of President Donald J.
 Natural language processing is taught relatively late in our curriculum. Thus, this data set relies on an aggressive back-loaded project schedule. Moreover, this data set is available in JSON, meaning the user will need to explore it independently  using Pandas or use the `JSON` package in Python to read it in. 
 
 > This is a great example of data you should use to continue practicing your new skill set beyond this course.
+
+[Download Here](http://www.trumptwitterarchive.com/archive)
+
+---
+
+<a name="option8"></a>
+### Option 8: Choose Your Own Dataset
+
+If none of the datasets above look interesting to you, feel free to find a different one. Just be sure to clearly indicate this preference and discuss your choice with your instructor.
