@@ -46,15 +46,17 @@ Final project requirements vary by deliverable.
 
 ## Rubric
 
-For all deliverables, project requirements will be evaluated on a simple point scale of 0, 1, or 2. 
+For all deliverables, requirements will be evaluated on a simple point scale of 0, 1, or 2. Additionally, instructors will provide you with feedback on required portions of your project.
 
 Score | Expectations
 :--- | :---
 **0** | _Incomplete._
 **1** | _Does not meet expectations._
 **2** | _Meets expectations, good job!_
+**3** | _Surpasses our wildest expectations!_
 
-Additionally, instructors will provide feedback on required portions of all projects.
+> Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
+
 
 ---
 
