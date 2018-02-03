@@ -55,6 +55,8 @@ From Kaggle:
 
 [Download Here](https://www.kaggle.com/hhs/health-insurance-marketplace)
 
+**Update:** 2017 data is available [here](https://www.cms.gov/cciio/resources/data-resources/marketplace-puf.html). The Kaggle page is a little more user-friendly, so I would recommend starting there to get oriented but ultimately using the data from 2017 either instead of or in addition to the data from Kaggle so that your analysis is current.
+
 ---
 
 <a name="option3"></a>
