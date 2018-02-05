@@ -23,7 +23,7 @@ In the field of data science, projects are practical. One of the best ways to qu
 1. Generate 2–3 different possible problem statements (of at least 250 words each).
     - State the questions you seek to answer, data set suggestions, and possible challenges.
 2. Create a written pitch for each possibility that can be shared with your instructor and classmates.
-3. Submit or present your pitch as required by your instructor.
+3. Put your pitch up on GitHub and submit the link [here](https://docs.google.com/forms/u/1/d/e/1FAIpQLSeU2n5fcIKnxpF_xZQbiISvpjcghQBzx1XKXN2LdPeMhsBL2Q/viewform?usp=send_form)
 
 ---
 
